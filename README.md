@@ -1,6 +1,7 @@
 # newman-reporter-testrail
 
-TestRail reporter for Newman.
+Fork of a TestRail reporter for Newman (Original repo: https://github.com/billylam/newman-reporter-testrail)
+I just changed the comment output in TestRail for my own purposes.
 
 ## Installation
 
